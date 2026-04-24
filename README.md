@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي وروحي فيك
+> بين الليل والنجوم أناديك
+> شوقي نار والقلب حواليك
+> يا عيني متى عيني تلاقيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
