@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rouhi-w-rouhak-my-soul-and-your-soul/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Rouhi W Rouhak – My Soul and Your Soul](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Rouhi W Rouhak – My Soul and Your Soul](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
