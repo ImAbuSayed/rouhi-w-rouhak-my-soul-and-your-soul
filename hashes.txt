@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rouhi W Rouhak – My Soul and Your Soul
+
+This log tracks the cryptographic history and versioning for the song **Rouhi W Rouhak – My Soul and Your Soul** (rouhi-w-rouhak-my-soul-and-your-soul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:29:21.054898 | `v1` | `77a407bbb094684250f1c3b14b20571ad2fe79a3dbd42f2657d8ad5e4d2c3b36` | `e66f5046f3cd5c9956339c239badbdaa76f9781ce46e302151f25ef0b6afe1e6` | `2026-05-09_rouhi-w-rouhak-my-soul-and-your-soul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
